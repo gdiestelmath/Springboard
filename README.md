@@ -1,3 +1,4 @@
 # Springboard
 Springboard Projects
-SQL Project for Springboard Course. Just copied code from remote sql server.
+python notebooks have outputs for review
+sql project is just code
